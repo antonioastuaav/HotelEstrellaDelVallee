@@ -1,1 +1,1 @@
-Texto desde TABLAS
+Texto combinado: Main + Tablas
